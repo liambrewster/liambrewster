@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/liambrewster/liambrewster/blob/main/image/LB%20Dev%20Logo.png" width="150" height="150">
 
 ## About Me
 - 🔭 I’m currently working on my final project of my Bootcamp
