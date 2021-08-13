@@ -47,6 +47,7 @@
 
 <p align="center">
 <a href="https://www.liambrewster.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-www.liambrewster.co.uk-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.twitter.com/liambrewster/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-LiamBrewster-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/liambrewster/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LiamBrewster-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:liam@liambrewster.co.uk"><img alt="Email" src="https://img.shields.io/badge/Email-liam@liambrewster.co.uk-blue?style=flat-square&logo=gmail"></a>
 </p>
