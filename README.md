@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on my final project of my Bootcamp
-- 🌱 I’m currently learning the MERN Stack
-- 👯 I’m looking to collaborate on as much as possible to learn
+- 🔭 I’m currently working learning React JS and building proejcts in this technology
+- 🌱 I’m currently learning the MERN Stack, so thats hwat most of my projects will cover.
+- 👯 I’m looking to collaborate on as much as possible to learn, very interested in oppertunites for me to learn but also contribute in anyway possible
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
