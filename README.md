@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working learning Next JS and building proejcts in this technology, most likely something relating to what can be used within the taxi industry
+- 🔭 I’m currently working on learning Next JS and building projects in this technology, most likely something relating to what can be used within the taxi industry
 - 🌱 I’m currently learning the T3-Stack, so thats hwat most of my projects will cover.
 - 👯 I’m looking to collaborate on as much as possible to learn, very interested in oppertunites for me to learn but also contribute in anyway possible
 
